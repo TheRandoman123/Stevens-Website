@@ -57,3 +57,33 @@ a {
 #h2test {
     text-align: center;
 }
+
+#encryptText {
+position: fixed;
+  top: 60%;
+  left: 50%;
+  
+  transform: translate(-50%, -50%);
+}
+
+#output {
+   position: fixed;
+  top: 40%;
+  left: 50%;
+ right: auto;
+  transform: translate(-50%, -50%);
+}
+
+input {
+    text-align: center;
+}
+
+#encryptButton {
+position: fixed;
+top: 50%;
+left: 50%;
+right: auto;
+transform: translate(-50%, -50%);
+width: 100px;
+    
+}
